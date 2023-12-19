@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "bsitar"]
 	path = bsitar
-	url = https://github.com/cran/bsitar
+	url = https://github.com/sandhu-ss/bsitar
